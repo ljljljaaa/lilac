@@ -1,0 +1,19 @@
+@charset "utf-8";
+html,body,header{height: 100%;}
+#bgTop{
+    background-image: url("../ImgPic/bj.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px black solid;
+    margin: auto;
+    height:65%;
+    width: 93%;
+}
+#wel{
+    color: aqua;
+    
+}
+div{
+    border: 1px red
+}
